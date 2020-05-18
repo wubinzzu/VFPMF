@@ -1,0 +1,33 @@
+[INFO ] 2020-01-04 11:33:51,389 -- With Setup: given-ratio -r 0.8 -target u --rand-seed 1 --test-view all
+[DEBUG] 2020-01-04 11:33:51,461 -- training amount: 116068, test amount: 29073
+[DEBUG] 2020-01-04 11:35:09,055 -- IEPMF: [ alpha, factors, regU, regI,beta,gama,lamutaE, numIters] = [10.0,10,0.1,0.1,5.0,500.0,10.0,100]
+[DEBUG] 2020-01-04 11:35:09,058 -- IEPMF runs at iteration = 1 Sat Jan 04 11:35:09 CST 2020
+[DEBUG] 2020-01-04 11:35:17,983 -- IEPMF runs at iteration = 2 Sat Jan 04 11:35:17 CST 2020
+[DEBUG] 2020-01-04 11:35:24,933 -- IEPMF runs at iteration = 3 Sat Jan 04 11:35:24 CST 2020
+[DEBUG] 2020-01-04 11:35:32,243 -- IEPMF runs at iteration = 4 Sat Jan 04 11:35:32 CST 2020
+[DEBUG] 2020-01-04 11:35:38,791 -- IEPMF runs at iteration = 5 Sat Jan 04 11:35:38 CST 2020
+[DEBUG] 2020-01-04 11:35:45,167 -- IEPMF runs at iteration = 6 Sat Jan 04 11:35:45 CST 2020
+[DEBUG] 2020-01-04 11:35:51,507 -- IEPMF runs at iteration = 7 Sat Jan 04 11:35:51 CST 2020
+[DEBUG] 2020-01-04 11:35:57,876 -- IEPMF runs at iteration = 8 Sat Jan 04 11:35:57 CST 2020
+[DEBUG] 2020-01-04 11:36:04,232 -- IEPMF runs at iteration = 9 Sat Jan 04 11:36:04 CST 2020
+[DEBUG] 2020-01-04 11:36:10,574 -- IEPMF runs at iteration = 10 Sat Jan 04 11:36:10 CST 2020
+[DEBUG] 2020-01-04 11:36:16,968 -- IEPMF runs at iteration = 11 Sat Jan 04 11:36:16 CST 2020
+[DEBUG] 2020-01-04 11:36:23,270 -- IEPMF runs at iteration = 12 Sat Jan 04 11:36:23 CST 2020
+[DEBUG] 2020-01-04 11:36:29,663 -- IEPMF runs at iteration = 13 Sat Jan 04 11:36:29 CST 2020
+[DEBUG] 2020-01-04 11:36:36,128 -- IEPMF runs at iteration = 14 Sat Jan 04 11:36:36 CST 2020
+[DEBUG] 2020-01-04 11:36:42,490 -- IEPMF runs at iteration = 15 Sat Jan 04 11:36:42 CST 2020
+[DEBUG] 2020-01-04 11:36:48,940 -- IEPMF runs at iteration = 16 Sat Jan 04 11:36:48 CST 2020
+[DEBUG] 2020-01-04 11:36:55,293 -- IEPMF runs at iteration = 17 Sat Jan 04 11:36:55 CST 2020
+[DEBUG] 2020-01-04 11:37:01,687 -- IEPMF runs at iteration = 18 Sat Jan 04 11:37:01 CST 2020
+[DEBUG] 2020-01-04 11:37:08,166 -- IEPMF runs at iteration = 19 Sat Jan 04 11:37:08 CST 2020
+[DEBUG] 2020-01-04 11:37:14,657 -- IEPMF runs at iteration = 20 Sat Jan 04 11:37:14 CST 2020
+[DEBUG] 2020-01-04 11:37:20,966 -- IEPMF runs at iteration = 21 Sat Jan 04 11:37:20 CST 2020
+[DEBUG] 2020-01-04 11:37:27,390 -- IEPMF runs at iteration = 22 Sat Jan 04 11:37:27 CST 2020
+[DEBUG] 2020-01-04 11:37:33,704 -- IEPMF runs at iteration = 23 Sat Jan 04 11:37:33 CST 2020
+[DEBUG] 2020-01-04 11:37:40,158 -- IEPMF runs at iteration = 24 Sat Jan 04 11:37:40 CST 2020
+[DEBUG] 2020-01-04 11:37:47,039 -- IEPMF runs at iteration = 25 Sat Jan 04 11:37:47 CST 2020
+[DEBUG] 2020-01-04 11:37:53,406 -- IEPMF runs at iteration = 26 Sat Jan 04 11:37:53 CST 2020
+[DEBUG] 2020-01-04 11:38:00,244 -- IEPMF runs at iteration = 27 Sat Jan 04 11:38:00 CST 2020
+[DEBUG] 2020-01-04 11:38:06,660 -- IEPMF runs at iteration = 28 Sat Jan 04 11:38:06 CST 2020
+[DEBUG] 2020-01-04 11:38:13,254 -- IEPMF runs at iteration = 29 Sat Jan 04 11:38:13 CST 2020
+[DEBUG] 2020-01-04 11:38:19,701 -- IEPMF runs at iteration = 30 Sat Jan 04 11:38:19 CST 2020
